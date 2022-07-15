@@ -1,0 +1,24 @@
+#this is a sample cover letter to show you how to use the makecoverletter.py script
+
+TODAY
+
+Dear Hiring Manager:
+
+I recently came across a job posting for the role of JOBTITLE at COMPANY
+while searching for jobs on SOURCE, and I wish to be considered for this role. 
+
+My rigorous coursework has given me the relevant knowledge to help me succeed as a JOBTITLE. 
+In particular (details about your experience). 
+These are the skills needed to make ADJ contributions in the field of FIELD.
+Each of these skills will help me as a member of the TEAM team.
+
+My attached resume explains more about my qualifications for this position. If you have any 
+questions about my resume or my candidacy, please let me know. You can reach me by phone at 
+{your phone #}, or by email at {your email}. I look forward to moving up as a 
+candidate for this position.
+
+Sincerely,
+
+{Your Name}
+
+
