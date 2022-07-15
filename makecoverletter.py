@@ -6,7 +6,7 @@ import datetime
 
 filename = input('enter an appropriate name for the file (wihtout extension)\n')
 job_title = input('enter the specific title of the position (e.g. new grad software engineer - linux kernel)\n')
-generic_title = ('enter a generic term for the position(e.g. software engineer)\n')
+generic_title = input('enter a generic term for the position(e.g. software engineer)\n')
 company = input('enter the name of the company\n')
 job_field = input('enter the field the job is in (e.g. software engineering)\n')
 contribution = input('enter the kind of contribution you would make in the field (e.g. meaningful, timely)\n')
