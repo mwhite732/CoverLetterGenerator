@@ -8,7 +8,7 @@ INSTALLATION AND RUNNING:
 Requires: python3
 1. Clone the repository to your local machine
 2. Format your template to your liking (see below)
-3. Open a new powershell window in the projects directory
+3. Open a new powershell window in the project's directory
 4. Run the script with 'python makecoverletter.py'
 5. Enter your job-specific details
 
